@@ -99,7 +99,7 @@ public class Player : MonoBehaviour
             transform.position = new Vector3(0, 0, 0);
         }
     }
-
+//new comment
     private void OnTriggerEnter(Collider other)
     {
         //gameObject.SetActive(false);
